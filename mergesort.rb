@@ -22,3 +22,5 @@ class MergeSort
     return results + left + right
   end
 end
+
+begin = MergeSort.new
